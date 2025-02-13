@@ -58,3 +58,5 @@ message = get_message(doc_content)
 
 #Print to screen 
 print_matrix(message)
+
+# Developed by Alan
